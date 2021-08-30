@@ -1,0 +1,24 @@
+/*
+###############
+# UTILIDADES
+###############
+*/
+
+.bw-glyphicon-large{
+	FONT-SIZE: 18PX;
+}
+
+/*
+###############
+# COMPONETES
+###############
+*/
+
+/*Field Action*/
+.bw-field-action {
+	display: flex;
+}
+
+.bw-field-action__icon{
+	margin: 6px 0 0 5px
+}
