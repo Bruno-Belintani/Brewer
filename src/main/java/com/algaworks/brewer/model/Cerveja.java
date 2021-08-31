@@ -4,6 +4,7 @@ import javax.validation.constraints.Size;
 
 import org.hibernate.validator.constraints.NotBlank;
 
+
 public class Cerveja {
 
 	@NotBlank(message = "SKU é obrigatório")
